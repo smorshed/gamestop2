@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+/*Navbar*/
+
+
+
+/*Header*/
+header {
+  background-image: url("GamingClassroom- 2.jpg");
+  height:500px;
+  width: 100%;
+  background-size: cover;
+}
+
+.header h1 {
+    color: white;
+    font-family: 'Gugi', cursive; 
+}  
+
+
+
+/*Team*/
+.team img {
+    height:150px;
+    width:150px;
+}
+
+/*Contact*/
+
+
+/*Footer*/
+
+
